@@ -1,4 +1,4 @@
-## Olá! Eu sou Matheus Giordani
+## Hi! I'm Matheus Giordani, programming student.
 
 <div align="center">
   <a href="https://github.com/MatheusGiordaniii">
@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Icon" height="150" style="border-radius:50px;" src="https://i.imgur.com/Qmw9wKK.png">
+  <img align="right" alt="Icon" height="150" width="150" style="border-radius:50px;" src="https://i.imgur.com/0SF2UtF.gif">
 </div>
 
 ##
