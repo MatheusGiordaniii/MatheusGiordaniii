@@ -29,7 +29,7 @@
 <!--  <a href = ""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
       <a href = ""><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a> -->
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jmiee5vnujkw27gnpgjxayy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jmiee5vnujkw27gnpgjxayy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/6QxByVmX2wrK9Jr3y3jEuc?si=f654e149adde459b)
   
 </div>
   
