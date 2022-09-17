@@ -2,8 +2,8 @@
 
   <p align = "center">
   <a href="https://github.com/MatheusGiordaniii">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusGiordaniii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width = 350/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGiordaniii&layout=compact&langs_count=7&theme=dracula" width = 420 /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusGiordaniii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width = 380/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGiordaniii&layout=compact&langs_count=7&theme=dracula" width = 375 /> 
   </p>
   
 #### I’m currently learning:
